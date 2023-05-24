@@ -1,7 +1,7 @@
 # svylme-paper
 Simulations comparing gllamm-style and pairwise-likelihood estimators for linear mixed models under complex sampling
 
-Only covers the setting where the gllamm-style estimators work, so PSUs are the same as model clusters
+Only covers the setting where the gllamm-style estimators work, so PSUs are the same as model clusters.  The first six tables study efficiency under non-informative sampling; the last three study bias under unreasonably informative sampling.
 
 `fromStata.R` has formatting code, so to replicate the tables in the preprint, do eg
 ```
