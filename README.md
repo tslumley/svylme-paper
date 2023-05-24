@@ -3,8 +3,9 @@ Simulations comparing gllamm-style and pairwise-likelihood estimators for linear
 
 Only covers the setting where the gllamm-style estimators work, so PSUs are the same as model clusters
 
-`fromStata.R` has formatting code, so to replicate the tables in the preprint
+`fromStata.R` has formatting code, so to replicate the tables in the preprint, do eg
 ```
+source("fromStata.R")
 load("lmesim-eff.rda")
 round(100*cvtsum2(rval), 1)
 ```
