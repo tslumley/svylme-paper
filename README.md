@@ -12,6 +12,6 @@ round(100*cvtsum2(rval), 1)
 Which files correspond to which tables?
 
 | table | R code | results |
-----------------------------
+|--|--|--|
 | 1 | lmesim-eff.R | lmesim-eff.rda|
 
