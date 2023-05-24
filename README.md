@@ -19,11 +19,10 @@ Which files correspond to which tables?
 | 4 | lmesim-eff3.R | lmesim-eff3.rda|
 | 5 | lmesim-eff-4.R | lmesim-eff-4.rda|
 | 6 | lmesim-small.R | lmesim-small.rda|
-|--|---|---|
+| -- | --- | --- |
 |7 | lmesim-info-1.R | lmesim-inf1.rda|
 |8 | lmesim-info-2.R | lmesim-inf-2.rda|
 |9 | lmesim-info-3.R | lmesim-inf-3.rda|
-|--|--|--|
 
-.
+
 
